@@ -35,4 +35,4 @@
 
 -> 실습 파일:
 
-[spring controller parameter 실습](https://github.com/YeeunJ/spring_practice/tree/master/ReturnType)
+[spring controller parameter 실습](https://github.com/YeeunJ/spring_practice/tree/master/ControllerParameter)
