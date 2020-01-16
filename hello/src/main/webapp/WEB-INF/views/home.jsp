@@ -25,7 +25,7 @@
 				<td><c:out value='${user.userName}'/></td>
 				<td><c:out value='${user.userAge}'/></td>
 				<td><c:out value='${user.userAddress}'/></td>
-				<td><img src="/resources/images/${user.userImage}" width="100px" height="100px"/></td>
+				<td><img src="http://marin.dothome.co.kr/2020Camp/img/${user.userImage}" width="100px" height="100px"/></td>
 				<td><button data-pid="${user.userName}">제거</button></td>
 			</tr>
 		</c:forEach>
