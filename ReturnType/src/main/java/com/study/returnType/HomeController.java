@@ -58,7 +58,7 @@ public class HomeController {
     @RequestMapping("/doD")
     public String doE(Model model){
         
-        logger.info("doE 실행...........");
+        logger.info("doD");
         
         Map<String,String> map = new HashMap<String,String>();
         map.put("name", "friend");
