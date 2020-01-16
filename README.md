@@ -12,7 +12,7 @@
 
 -> 실습 파일:
 
-[hello project](https://github.com/YeeunJ/spring_practice/tree/master/hello_Project) 
+[hello project](https://github.com/YeeunJ/spring_practice/tree/master/helloProject) 
 
 [Spring 동작 원리](https://github.com/YeeunJ/spring_practice/tree/master/hello) 
 
