@@ -16,5 +16,5 @@
 
 [Spring 동작 원리](https://github.com/YeeunJ/spring_practice/tree/master/hello) 
 
-![동작원리 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/capture_img1.png){: width="50%" height="50%"}
+![동작원리 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/capture_img1.png)
 
