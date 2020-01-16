@@ -29,3 +29,10 @@
 -> 실습 파일:
 
 [return type 실습](https://github.com/YeeunJ/spring_practice/tree/master/ReturnType)
+
+
++ **[spring controller parameter 정리](https://velog.io/@ye050425/spring-controller-parameter-%EC%A0%95%EB%A6%AC)**
+
+-> 실습 파일:
+
+[spring controller parameter 실습](https://github.com/YeeunJ/spring_practice/tree/master/ReturnType)
