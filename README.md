@@ -10,6 +10,8 @@
 
 + **[spring 용어 정리](https://velog.io/@ye050425/spring-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC)**
 
++ **[메소드 리턴타입 정리](https://velog.io/@ye050425/spring-%EB%A9%94%EC%86%8C%EB%93%9C-%EB%A6%AC%ED%84%B4%ED%83%80%EC%9E%85-%EC%A0%95%EB%A6%AC-78k5gwklce)**
+
 -> 실습 파일:
 
 [hello project](https://github.com/YeeunJ/spring_practice/tree/master/helloProject) 
