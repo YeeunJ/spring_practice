@@ -37,4 +37,31 @@
 
 ## spring3
 [project1 실습](https://github.com/YeeunJ/spring_practice/tree/master/CRUDProject)
+
 [project2 실습](https://github.com/YeeunJ/spring_practice/tree/master/connectTest)
+
+[project3 실습](https://github.com/YeeunJ/spring_practice/tree/master/first)
+
+## spring4
+
+[게시판 만들기]()
+
+index
+
+![index 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/index.png)
+
+regist
+
+![regist 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/regist.png)
+
+list
+
+![list 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/list.png)
+
+read
+
+![read 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/read.png)
+
+modify
+
+![modify 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/modify.png)
