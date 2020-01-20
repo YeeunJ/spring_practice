@@ -46,6 +46,14 @@
 
 [게시판 만들기]()
 
+index
+
+![index 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/index.png)
+
+regist
+
+![regist 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/regist.png)
+
 list
 
 ![list 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/list.png)
@@ -53,3 +61,7 @@ list
 read
 
 ![read 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/read.png)
+
+modify
+
+![modify 사진](https://github.com/YeeunJ/spring_practice/blob/master/image/modify.png)
