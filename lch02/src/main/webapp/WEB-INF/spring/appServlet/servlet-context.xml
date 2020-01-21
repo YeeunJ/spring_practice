@@ -21,6 +21,21 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
+	<!-- 인터셉터 객체 생성 -->
+	<beans:bean id="authenticationInterceptor" class="com.myp.user.Interceptor.AuthenticationInterceptor">
+	</beans:bean>
+	<!-- Interceptor 설정 -->
+	<interceptors>
+		<interceptor>
+			<mapping path="/listAll"/>
+			<mapping path="/read"/>
+			<mapping path="/regist"/>
+			<mapping path="/read"/>
+			<mapping path="/modify"/>
+			<beans:ref bean="authenticationInterceptor"/>
+		</interceptor>
+	</interceptors>
+	
 	<context:component-scan base-package="com.myp.controller" />
 	
 	

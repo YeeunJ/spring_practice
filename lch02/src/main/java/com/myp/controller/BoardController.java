@@ -13,7 +13,6 @@ import com.myp.domain.BoardVO;
 import com.myp.service.BoardService;
 
 @Controller // 컨트롤러임을 명시
-
 @RequestMapping(value = "/") // 주소 패턴
 public class BoardController {
 	@Inject   // 주입(심부름꾼) 명시
