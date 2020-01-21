@@ -44,7 +44,9 @@
 
 ## spring4
 
-[게시판 만들기]()
+[게시판 만들기](https://github.com/YeeunJ/spring_practice/tree/master/lch02)
+
+[프로젝트 과정 정리](https://velog.io/@ye050425/spring-spring-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-4zk5lsa4g6)
 
 index
 
